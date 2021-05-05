@@ -1,6 +1,6 @@
 {
   "name": "@jevets/gittix-common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "For a udemy course on microservices",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
